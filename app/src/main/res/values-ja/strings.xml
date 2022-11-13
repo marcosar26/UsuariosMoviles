@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ログイン</string>
+    <string name="qu_quieres_hacer">どうしたいですか？</string>
+    <string name="registrarme">レジスター</string>
+    <string name="iniciar_sesi_n">ログイン</string>
+    <string name="registro_de_usuario">ユーザー登録</string>
+    <string name="contrase_a">パスワード</string>
+    <string name="email">電子メール</string>
+</resources>

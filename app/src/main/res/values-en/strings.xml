@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="qu_quieres_hacer">What do you want to do?</string>
+    <string name="registrarme">REGISTER</string>
+    <string name="iniciar_sesi_n">LOGIN</string>
+    <string name="registro_de_usuario">User register</string>
+    <string name="contrase_a">Password</string>
+    <string name="email">Email</string>
+</resources>
